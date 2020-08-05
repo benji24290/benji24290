@@ -1,7 +1,7 @@
 ### Hi there, I'm Beni 👋
-
-## I'm a Full-Stack Developer located in Bern!
 <!--
+## I'm a Full-Stack Developer located in Bern!
+
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
