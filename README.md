@@ -1,6 +1,6 @@
 ### Hi there, I'm Beni 👋
 <!--
-## I'm a Full-Stack Developer located in Bern!
+## I'm a Full Stack Developer located in Bern!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 -->
-I'm a Full-Stack Developer located in Bern!
+I'm a Full Stack Developer located in Bern!
 <!--
 ### Connect with me:
 
