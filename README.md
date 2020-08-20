@@ -38,9 +38,9 @@ I'm a Full Stack Developer located in Bern!
 <br />
 <br />
 <br />
-
+<!--
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=benji24290&show_icons=true&hide_border=true" />
-
+-->
 [website]: https://benjamin.cirmena.com
 [linkedin]: https://linkedin.com/in/benjamin-cirmena-427069110/
 
